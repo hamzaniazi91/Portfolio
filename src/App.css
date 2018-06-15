@@ -155,7 +155,7 @@ hr.sub {
 }
 
 .card .card-title {
-    font-weight: bold;
+    
 }
 
 .card-title.card-open {
@@ -166,7 +166,7 @@ hr.sub {
 .btn,
 .btn:focus {
     background-color: #127da1;
-    font-weight: bold;
+  
     padding: 0 1rem;
     margin-right: 5%;
 }
@@ -177,7 +177,7 @@ hr.sub {
 }
 
 .work-img {
-    object-fit: cover;
+    object-fit: contain;
 }
 
 #about {
